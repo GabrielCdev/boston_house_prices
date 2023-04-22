@@ -1,2 +1,2 @@
-# boston_house_prices
-Regression Analysis on Boston House Prices
+# Boston Housing Prices
+Regression Analysis on Boston Housing Prices
